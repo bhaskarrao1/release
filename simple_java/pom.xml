@@ -11,7 +11,7 @@
 
 
 
-<!-- ####################### adding the SCM url information  ################# -->
+<!-- ####################### adding the SCM url information  ################## -->
 
 <scm>
         <connection>scm:git:https://github.com/satyadevops/release.git</connection>
